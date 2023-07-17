@@ -21,4 +21,4 @@ npm start
 
 5. Open <http://localhost:8787>
 6. Nothing happens :(
-7. Try to switch to node@18 and repeat the steps - everything works correctly
+7. Deployed version works correctly: https://r2-bug-repro.wszyzdgo.workers.dev/
